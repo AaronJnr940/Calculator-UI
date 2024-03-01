@@ -1,0 +1,10 @@
+U:\VS2019\User Interface 1\User Interface 1\bin\Debug\User Interface 1.exe.config
+U:\VS2019\User Interface 1\User Interface 1\bin\Debug\User Interface 1.exe
+U:\VS2019\User Interface 1\User Interface 1\bin\Debug\User Interface 1.pdb
+U:\VS2019\User Interface 1\User Interface 1\obj\Debug\User Interface 1.csproj.AssemblyReference.cache
+U:\VS2019\User Interface 1\User Interface 1\obj\Debug\User_Interface_1.Form1.resources
+U:\VS2019\User Interface 1\User Interface 1\obj\Debug\User_Interface_1.Properties.Resources.resources
+U:\VS2019\User Interface 1\User Interface 1\obj\Debug\User Interface 1.csproj.GenerateResource.cache
+U:\VS2019\User Interface 1\User Interface 1\obj\Debug\User Interface 1.csproj.CoreCompileInputs.cache
+U:\VS2019\User Interface 1\User Interface 1\obj\Debug\User Interface 1.exe
+U:\VS2019\User Interface 1\User Interface 1\obj\Debug\User Interface 1.pdb
